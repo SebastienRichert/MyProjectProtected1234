@@ -1,0 +1,18 @@
+# Project description file
+
+project.name=MyProjectProtected1234
+project.version=8.11
+project.original.version=8.11
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2026.3.0
+project.description=
+project.is-open-test-settings-after-upload=false
+project.password.hash=fKUlLzfjiLhtcbhmLJBOXzfIkoUwLRU4wj0VfUZJctM=$0
+project.id=de3b4c20-6e19-40b2-b9bb-47d1d1352f1e
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/SebastienRichert/MyProjectProtected1234.git
